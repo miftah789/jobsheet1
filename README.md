@@ -1,6 +1,6 @@
 # jobsheet1
 <p>
-<br>ma : Miftahul Jannah 
+<br>nama : Miftahul Jannah 
 <br>Kelas : XI RPL 6
 <br>No.Absen : 18 
 <br>Sekolah : SMK TELKOM MALANG 
